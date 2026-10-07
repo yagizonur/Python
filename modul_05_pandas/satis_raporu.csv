@@ -1,0 +1,16 @@
+﻿satis_id,urun,kategori,birim_fiyat,tarih,adet,musteri,sehir,toplam_tutar,ay,ay_adi
+1,Laptop,Elektronik,35000.0,2025-01-10,2,Ahmet Yilmaz,Istanbul,70000.0,2025-01,January
+2,Mouse,Aksesuar,450.0,2025-01-15,10,Fatma Kaya,Ankara,4500.0,2025-01,January
+3,Laptop,Elektronik,35000.0,2025-02-03,1,Can Demir,Izmir,35000.0,2025-02,February
+4,Klavye,Aksesuar,850.0,2025-02-18,5,Derya Celik,Istanbul,4250.0,2025-02,February
+5,Monitor,Elektronik,12000.0,2025-03-01,3,Emre Sahin,Ankara,36000.0,2025-03,March
+6,Mouse,Aksesuar,450.0,2025-03-12,15,Gul Arslan,Istanbul,6750.0,2025-03,March
+7,Kulaklik,Aksesuar,1200.0,2025-03-25,8,Hakan Oz,Izmir,9600.0,2025-03,March
+8,SSD Disk,Donanim,2500.0,2025-04-05,12,Ahmet Yilmaz,Istanbul,30000.0,2025-04,April
+9,RAM 16GB,Donanim,3200.0,2025-04-15,6,Fatma Kaya,Ankara,19200.0,2025-04,April
+10,Laptop,Elektronik,35000.0,2025-05-01,1,Murat Sen,Bursa,35000.0,2025-05,May
+11,Klavye,Aksesuar,850.0,2025-05-20,20,Selin Kara,Istanbul,17000.0,2025-05,May
+12,Monitor,Elektronik,12000.0,2025-06-02,2,Can Demir,Izmir,24000.0,2025-06,June
+13,Webcam,Aksesuar,900.0,2025-06-15,10,Zeynep Ak,Ankara,9000.0,2025-06,June
+14,Mouse,Aksesuar,450.0,2025-06-20,30,Ali Veli,Istanbul,13500.0,2025-06,June
+15,SSD Disk,Donanim,2500.0,2025-06-28,5,Derya Celik,Istanbul,12500.0,2025-06,June
